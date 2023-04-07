@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Dinko59
-- 🌱 I’m currently learning Python
-- And Git actually.
+
